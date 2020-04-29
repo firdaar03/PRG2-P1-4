@@ -1,0 +1,11 @@
+E:\2020\Kuli-ah\PRG 2\PRG2_20192_P1_4_11\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_11.csprojAssemblyReference.cache
+E:\2020\Kuli-ah\PRG 2\PRG2_20192_P1_4_11\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_11.AssemblyInfoInputs.cache
+E:\2020\Kuli-ah\PRG 2\PRG2_20192_P1_4_11\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_11.AssemblyInfo.cs
+E:\2020\Kuli-ah\PRG 2\PRG2_20192_P1_4_11\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_11.exe
+E:\2020\Kuli-ah\PRG 2\PRG2_20192_P1_4_11\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_11.deps.json
+E:\2020\Kuli-ah\PRG 2\PRG2_20192_P1_4_11\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_11.runtimeconfig.json
+E:\2020\Kuli-ah\PRG 2\PRG2_20192_P1_4_11\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_11.runtimeconfig.dev.json
+E:\2020\Kuli-ah\PRG 2\PRG2_20192_P1_4_11\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_11.dll
+E:\2020\Kuli-ah\PRG 2\PRG2_20192_P1_4_11\bin\Debug\netcoreapp3.1\PRG2_20192_P1_4_11.pdb
+E:\2020\Kuli-ah\PRG 2\PRG2_20192_P1_4_11\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_11.dll
+E:\2020\Kuli-ah\PRG 2\PRG2_20192_P1_4_11\obj\Debug\netcoreapp3.1\PRG2_20192_P1_4_11.pdb
